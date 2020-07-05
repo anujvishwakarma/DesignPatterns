@@ -1,0 +1,5 @@
+FactoryPattern\MainRunner.class
+FactoryPattern\Rectangle.class
+FactoryPattern\Circle.class
+FactoryPattern\Shape.class
+FactoryPattern\ShapeFactory.class
