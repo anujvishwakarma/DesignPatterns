@@ -1,6 +1,4 @@
-import StructuralPattern.FacadePattern.Circle;
 import StructuralPattern.FacadePattern.ShapeMaker;
-import org.junit.Assert;
 import org.junit.Test;
 
 public class FacadePatternTest {
