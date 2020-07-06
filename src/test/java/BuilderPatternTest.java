@@ -1,4 +1,4 @@
-import BuilderPattern.User;
+import CreationalPattern.BuilderPattern.User;
 import org.junit.Assert;
 import org.junit.Test;
 

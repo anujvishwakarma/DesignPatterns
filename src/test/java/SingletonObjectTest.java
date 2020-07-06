@@ -1,4 +1,4 @@
-import SingletonPattern.SingletonObject;
+import CreationalPattern.SingletonPattern.SingletonObject;
 import org.junit.Assert;
 import org.junit.Test;
 

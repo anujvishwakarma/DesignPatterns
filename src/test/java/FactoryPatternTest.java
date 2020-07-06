@@ -1,6 +1,6 @@
-import FactoryPattern.Rectangle;
-import FactoryPattern.Shape;
-import FactoryPattern.ShapeFactory;
+import CreationalPattern.FactoryPattern.Rectangle;
+import CreationalPattern.FactoryPattern.Shape;
+import CreationalPattern.FactoryPattern.ShapeFactory;
 import org.junit.Assert;
 import org.junit.Test;
 

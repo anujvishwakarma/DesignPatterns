@@ -1,6 +1,6 @@
-import PrototypePattern.AbstractColor;
-import PrototypePattern.Blue;
-import PrototypePattern.ColorCache;
+import CreationalPattern.PrototypePattern.AbstractColor;
+import CreationalPattern.PrototypePattern.Blue;
+import CreationalPattern.PrototypePattern.ColorCache;
 import org.junit.Assert;
 import org.junit.Test;
 

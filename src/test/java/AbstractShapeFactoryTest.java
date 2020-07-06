@@ -1,7 +1,7 @@
-import AbstractFactoryPattern.Factory.AbstractShapeFactory;
-import AbstractFactoryPattern.Factory.FactoryProducer;
-import AbstractFactoryPattern.Factory.RoundShapeFactory;
-import AbstractFactoryPattern.Model.Circle;
+import CreationalPattern.AbstractFactoryPattern.Factory.AbstractShapeFactory;
+import CreationalPattern.AbstractFactoryPattern.Factory.FactoryProducer;
+import CreationalPattern.AbstractFactoryPattern.Factory.RoundShapeFactory;
+import CreationalPattern.AbstractFactoryPattern.Model.Circle;
 import org.junit.Assert;
 import org.junit.Test;
 
