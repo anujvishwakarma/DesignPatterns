@@ -1,2 +1,5 @@
+BuilderPatternTest.class
 AbstractShapeFactoryTest.class
+SingletonObjectTest.class
+PrototypePatternTest.class
 FactoryPatternTest.class
